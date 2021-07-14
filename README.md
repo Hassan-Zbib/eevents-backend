@@ -24,7 +24,7 @@ npm run develop
 
 ###**Strapi-admin**
 
-http://localhost:8082/admin/auth/login
+http://localhost:8082/admin
 
 11710298@students.liu.edu.lb
 
